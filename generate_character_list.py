@@ -4,7 +4,7 @@ containing all the names, blocks and character codes
 """
 import os
 import logging
-from urllib import request
+from urllib3 import request
 
 curr_path = os.path.dirname(__file__)
 logging.basicConfig(level=logging.DEBUG)
