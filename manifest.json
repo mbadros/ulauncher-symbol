@@ -3,7 +3,7 @@
   "description": "Search symbols in ASCII and Unicode. Enter to copy the symbol, alt+enter to copy the HTML entity. Dark mode friendly.",
   "developer_name": "Ivan Boothe",
   "icon": "images/insertion-symbol.png",
-  "required_api_version": "^2.0.0",
+  "required_api_version": "^3.0.0",
   "options": {
     "query_debounce": 0.5
   },
